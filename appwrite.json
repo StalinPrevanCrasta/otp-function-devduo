@@ -1,0 +1,7 @@
+{
+  "name": "SendOTP",
+  "runtime": "node-20.11",
+  "entrypoint": "src/main.js",
+  "events": [],
+  "timeout": 15
+}
